@@ -55,3 +55,9 @@ ramos semelhantes, e sua utilização pode trazer benefícios financeiros e comp
 para ambas. Salienta-se que o comprimento total utilizado de cabo pode impactar na
 redução dos custos de materiais na distribuição de Internet, caso haja a aplicação dos
 resultados encontrados.
+
+# Como executar o projeto
+
+Clone o projeto.
+Utilize do comando `pip install -r requirements.txt` para baixar as dependencias do projeto.
+Execute-o.
