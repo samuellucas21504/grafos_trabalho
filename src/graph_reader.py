@@ -8,6 +8,9 @@ class GraphReader:
         graph = nx.Graph()
 
         for line in file:
+            if line[0] == '#':
+                continue
+
             node, edges = line.split('-')
 
             node = normalize_string(node)
